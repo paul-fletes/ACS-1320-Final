@@ -1,0 +1,16 @@
+.Counter {
+  display: flex;
+  flex-direction: row;
+  height: 35px;
+  align-items: center;
+}
+
+.number {
+  margin: 10px;
+}
+
+button {
+  border-radius: 5px;
+  background: grey;
+  border: none;
+}
